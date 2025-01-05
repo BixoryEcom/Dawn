@@ -12,5 +12,34 @@
   "context": {
     "market": "us"
   },
-  "sections": {}
+  "sections": {
+    "image_banner": {
+      "settings": {},
+      "blocks": {
+        "button": {
+          "settings": {
+            "button_label_1": "Explore",
+            "button_link_1": "shopify://collections/top-sellers",
+            "button_label_2": ""
+          }
+        },
+        "text": {
+          "settings": {
+            "text": "Modern Artwork Living at Affordable Price"
+          }
+        }
+      }
+    },
+    "featured_collection": {
+      "settings": {
+        "heading_size": "h1",
+        "title": "<strong>Featured products</strong>",
+        "description_style": "subtitle",
+        "description": "<p>Made with highest standard of craftsmanship</p>",
+        "quick_add": "standard",
+        "color_scheme": "scheme-4"
+      },
+      "blocks": {}
+    }
+  }
 }
