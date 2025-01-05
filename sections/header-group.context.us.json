@@ -19,6 +19,18 @@
         "menu_color_scheme": "scheme-3"
       },
       "blocks": {}
+    },
+    "announcement-bar": {
+      "settings": {
+        "color_scheme": "scheme-5"
+      },
+      "blocks": {
+        "announcement-bar-0": {
+          "settings": {
+            "text": "Welcome to Artsy Lifestyle"
+          }
+        }
+      }
     }
   }
 }
