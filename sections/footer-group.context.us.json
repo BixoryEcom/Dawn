@@ -19,6 +19,15 @@
         "enable_follow_on_shop": false
       },
       "blocks": {
+        "brand_information_ajq9a": {
+          "type": "brand_information",
+          "disabled": false,
+          "settings": {
+            "paragraph-da7f1a2a7cdd2fbdde9c4f43e9571b81": null,
+            "header-e69cd66ece5b3ac051337c53b2a01226": null,
+            "show_social": true
+          }
+        },
         "footer-0": {
           "settings": {
             "menu": "footer-menu-quick-links"
@@ -29,7 +38,13 @@
             "heading": "Policies"
           }
         }
-      }
+      },
+      "block_order": [
+        "brand_information_ajq9a",
+        "footer-0",
+        "footer-1",
+        "footer-2"
+      ]
     }
   }
 }
