@@ -18,7 +18,9 @@
         "color_scheme": "scheme-4",
         "enable_follow_on_shop": false,
         "show_social": false,
-        "padding_bottom": 20
+        "padding_bottom": 20,
+        "margin_top": 0,
+        "padding_top": 24
       },
       "blocks": {
         "brand_information_ajq9a": {
