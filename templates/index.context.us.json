@@ -86,7 +86,26 @@
         "button_label": "Shop Now",
         "color_scheme": "scheme-3"
       },
-      "blocks": {}
+      "blocks": {
+        "column1": {
+          "settings": {
+            "title": "Premium Quality",
+            "text": "<p>Made by top craftsmanship</p>"
+          }
+        },
+        "column2": {
+          "settings": {
+            "title": "24x7 Customer Support",
+            "text": "<p>Fast response to your inquiries</p>"
+          }
+        },
+        "column3": {
+          "settings": {
+            "title": "Total Satisfaction",
+            "text": "<p>Hassle free shopping with FREE return</p>"
+          }
+        }
+      }
     }
   }
 }
