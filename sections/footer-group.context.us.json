@@ -12,5 +12,12 @@
   "context": {
     "market": "us"
   },
-  "sections": {}
+  "sections": {
+    "footer": {
+      "settings": {
+        "color_scheme": "scheme-4"
+      },
+      "blocks": {}
+    }
+  }
 }
