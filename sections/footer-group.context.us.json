@@ -17,7 +17,13 @@
       "settings": {
         "color_scheme": "scheme-4"
       },
-      "blocks": {}
+      "blocks": {
+        "footer-0": {
+          "settings": {
+            "menu": "footer-menu-quick-links"
+          }
+        }
+      }
     }
   }
 }
