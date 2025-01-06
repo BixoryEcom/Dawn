@@ -123,8 +123,13 @@
     "currency_code_enabled": true,
     "cart_type": "notification",
     "show_vendor": false,
-    "show_cart_note": false,
-    "cart_drawer_collection": "",
+    "show_cart_note": true,
+    "cart_drawer_collection": "best-deals",
+    "checkout_logo_image": "shopify://shop_images/Bixtore_Logo_-_Icon_Text_2.png",
+    "checkout_logo_position": "center",
+    "checkout_input_background_color_mode": "white",
+    "checkout_heading_font": "Roboto",
+    "checkout_body_font": "Roboto",
     "sections": {
       "main-password-header": {
         "type": "main-password-header",
