@@ -15,12 +15,18 @@
   "sections": {
     "footer": {
       "settings": {
-        "color_scheme": "scheme-4"
+        "color_scheme": "scheme-4",
+        "enable_follow_on_shop": false
       },
       "blocks": {
         "footer-0": {
           "settings": {
             "menu": "footer-menu-quick-links"
+          }
+        },
+        "footer-1": {
+          "settings": {
+            "heading": "Policies"
           }
         }
       }
