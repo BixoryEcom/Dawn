@@ -60,18 +60,33 @@
             "collection": "modern-minimalist"
           }
         },
-        "collection-1": {
-          "settings": {
-            "collection": "bohemian-chic"
-          }
-        },
         "product": {
           "settings": {
             "product": "dog-statue-butler-tray",
             "second_image": true
           }
+        },
+        "collection-1": {
+          "settings": {
+            "collection": "bohemian-chic"
+          }
         }
       }
+    },
+    "video": {
+      "disabled": true,
+      "settings": {
+        "full_width": false
+      },
+      "blocks": {}
+    },
+    "multicolumn": {
+      "settings": {
+        "background_style": "primary",
+        "button_label": "Shop Now",
+        "color_scheme": "scheme-3"
+      },
+      "blocks": {}
     }
   }
 }
