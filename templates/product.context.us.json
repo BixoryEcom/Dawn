@@ -12,5 +12,11 @@
   "context": {
     "market": "us"
   },
-  "sections": {}
+  "sections": {
+    "image-with-text": {
+      "disabled": true,
+      "settings": {},
+      "blocks": {}
+    }
+  }
 }
