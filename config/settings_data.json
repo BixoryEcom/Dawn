@@ -21,8 +21,8 @@
     "spacing_grid_horizontal": 8,
     "spacing_grid_vertical": 8,
     "animations_hover_elements": "vertical-lift",
-    "buttons_border_thickness": 1,
-    "buttons_border_opacity": 100,
+    "buttons_border_thickness": 2,
+    "buttons_border_opacity": 0,
     "buttons_radius": 6,
     "buttons_shadow_opacity": 0,
     "buttons_shadow_horizontal_offset": 0,
@@ -45,7 +45,7 @@
     "card_style": "card",
     "card_image_padding": 0,
     "card_text_alignment": "center",
-    "card_color_scheme": "scheme-2",
+    "card_color_scheme": "scheme-fda92f7f-45c2-457e-b38f-ea8e302fa5b3",
     "card_border_thickness": 0,
     "card_border_opacity": 10,
     "card_corner_radius": 0,
@@ -200,10 +200,10 @@
           "background": "#1a1a1a",
           "background_gradient": "",
           "text": "#ffffff",
-          "button": "#4a154b",
-          "button_label": "#fff",
+          "button": "#483df6",
+          "button_label": "#ffffff",
           "secondary_button_label": "#c9b037",
-          "shadow": "#121212"
+          "shadow": "#fff"
         }
       },
       "scheme-5": {
@@ -219,9 +219,9 @@
       },
       "scheme-fda92f7f-45c2-457e-b38f-ea8e302fa5b3": {
         "settings": {
-          "background": "#1a1a1a",
+          "background": "#f3f3f3",
           "background_gradient": "",
-          "text": "#f3f3f3",
+          "text": "#1a1a1a",
           "button": "#121212",
           "button_label": "#ffffff",
           "secondary_button_label": "#121212",
