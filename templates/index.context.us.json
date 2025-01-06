@@ -16,30 +16,62 @@
     "image_banner": {
       "settings": {},
       "blocks": {
+        "text": {
+          "settings": {
+            "text": "Modern Artwork Living at Affordable Price"
+          }
+        },
         "button": {
           "settings": {
             "button_label_1": "Explore",
             "button_link_1": "shopify://collections/top-sellers",
             "button_label_2": ""
           }
-        },
-        "text": {
-          "settings": {
-            "text": "Modern Artwork Living at Affordable Price"
-          }
         }
       }
     },
     "featured_collection": {
       "settings": {
-        "heading_size": "h1",
         "title": "<strong>Featured products</strong>",
-        "description_style": "subtitle",
+        "heading_size": "h1",
         "description": "<p>Made with highest standard of craftsmanship</p>",
-        "quick_add": "standard",
-        "color_scheme": "scheme-4"
+        "description_style": "subtitle",
+        "color_scheme": "scheme-4",
+        "quick_add": "standard"
       },
       "blocks": {}
+    },
+    "rich_text": {
+      "disabled": true,
+      "settings": {},
+      "blocks": {}
+    },
+    "collage": {
+      "settings": {
+        "heading": "Explore Different Styles",
+        "heading_size": "h1",
+        "desktop_layout": "right",
+        "card_styles": "none",
+        "color_scheme": "scheme-3"
+      },
+      "blocks": {
+        "collection-0": {
+          "settings": {
+            "collection": "modern-minimalist"
+          }
+        },
+        "collection-1": {
+          "settings": {
+            "collection": "bohemian-chic"
+          }
+        },
+        "product": {
+          "settings": {
+            "product": "dog-statue-butler-tray",
+            "second_image": true
+          }
+        }
+      }
     }
   }
 }
