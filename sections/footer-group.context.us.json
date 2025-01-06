@@ -16,7 +16,8 @@
     "footer": {
       "settings": {
         "color_scheme": "scheme-4",
-        "enable_follow_on_shop": false
+        "enable_follow_on_shop": false,
+        "show_social": false
       },
       "blocks": {
         "brand_information_ajq9a": {
@@ -36,6 +37,12 @@
         "footer-1": {
           "settings": {
             "heading": "Policies"
+          }
+        },
+        "footer-2": {
+          "settings": {
+            "heading": "Our Mission",
+            "subtext": "<p>Making your Artistic Lifestyle Affordable</p>"
           }
         }
       },
