@@ -174,8 +174,17 @@
         "column-0": {
           "type": "column",
           "settings": {
-            "title": "Free Shipping",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "title": "24x7 Support",
+            "text": "<p>Rest easy knowing you have access to help at any time - our customer support team is always available 24/7.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_mqamyX": {
+          "type": "column",
+          "settings": {
+            "title": "Fast Shipping",
+            "text": "<p>Experience quick and reliable delivery with our range of quality goods. Shop now for a seamless shopping experience from order to arrival.</p>",
             "link_label": "",
             "link": ""
           }
@@ -184,7 +193,7 @@
           "type": "column",
           "settings": {
             "title": "Hassle-Free Exchanges",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p>Say goodbye to the fear of making a wrong purchase - we offer hassle-free exchanges for your convenience and satisfaction.</p>",
             "link_label": "",
             "link": ""
           }
@@ -192,6 +201,7 @@
       },
       "block_order": [
         "column-0",
+        "column_mqamyX",
         "column-1"
       ],
       "settings": {
