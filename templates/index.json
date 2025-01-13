@@ -48,11 +48,11 @@
         "image_2": "shopify://shop_images/Banner_2_A_sophisticated_modern_living_room_at_dusk_with_floor_lamp.png",
         "image_overlay_opacity": 40,
         "image_height": "medium",
-        "desktop_content_position": "bottom-center",
+        "desktop_content_position": "middle-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "scheme-3",
-        "image_behavior": "none",
+        "image_behavior": "ambient",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": false
@@ -82,7 +82,7 @@
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "scheme-4",
+        "color_scheme": "scheme-2",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 40
