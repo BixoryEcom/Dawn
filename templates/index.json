@@ -122,26 +122,25 @@
         "collection-0": {
           "type": "collection",
           "settings": {
-            "collection": ""
+            "collection": "timeless-elegance"
           }
         },
-        "product": {
-          "type": "product",
+        "collection_JDbYRE": {
+          "type": "collection",
           "settings": {
-            "product": "",
-            "second_image": false
+            "collection": "joyful-vibrance"
           }
         },
         "collection-1": {
           "type": "collection",
           "settings": {
-            "collection": ""
+            "collection": "modern-minimalist"
           }
         }
       },
       "block_order": [
         "collection-0",
-        "product",
+        "collection_JDbYRE",
         "collection-1"
       ],
       "settings": {
