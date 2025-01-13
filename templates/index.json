@@ -164,7 +164,7 @@
         "cover_image": "shopify://shop_images/Banner_5_A_breathtaking_residential_space_at_the_exact_moment.png",
         "description": "",
         "full_width": false,
-        "color_scheme": "scheme-1",
+        "color_scheme": "scheme-2",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -175,8 +175,8 @@
         "column1": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "title": "24x7 Support",
+            "text": "<p>Have a question? Our customer support is available around the clock. Feel free to reach out for any assistance.</p>",
             "link_label": "",
             "link": ""
           }
@@ -184,8 +184,8 @@
         "column2": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "title": "Fast Shipping",
+            "text": "<p>Get your hands on quality products with speedy shipping and stress-free exchange or return options.</p>",
             "link_label": "",
             "link": ""
           }
@@ -193,8 +193,8 @@
         "column3": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "title": "Total Satisfaction",
+            "text": "<p>Discover the joy of easy online shopping, guaranteed to bring you complete satisfaction. Experience convenience at its finest with us.</p>",
             "link_label": "",
             "link": ""
           }
