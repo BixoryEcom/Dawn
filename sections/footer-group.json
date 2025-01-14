@@ -36,6 +36,7 @@
         },
         "footer-2": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "heading": "Our mission",
             "subtext": "<p>Bring artistic touch into your modern living through top craftsmanship.</p>"
