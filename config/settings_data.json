@@ -130,9 +130,12 @@
     "cart_drawer_collection": "best-deals",
     "checkout_logo_image": "shopify://shop_images/Bixtore_Logo_-_Icon_Text_2.png",
     "checkout_logo_position": "center",
+    "checkout_body_background_color": "#f3f3f3",
     "checkout_input_background_color_mode": "white",
     "checkout_heading_font": "Roboto",
     "checkout_body_font": "Roboto",
+    "checkout_accent_color": "#f3f3f3",
+    "checkout_button_color": "#9e60fb",
     "sections": {
       "main-password-header": {
         "type": "main-password-header",
