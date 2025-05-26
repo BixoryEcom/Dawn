@@ -116,6 +116,22 @@
         "padding_bottom": 36
       }
     },
+    "video": {
+      "type": "video",
+      "settings": {
+        "heading": "Designed to Hold Presence",
+        "heading_size": "h1",
+        "enable_video_looping": true,
+        "video": "shopify://files/videos/vasee brand story video 2.mp4",
+        "video_url": "",
+        "cover_image": "shopify://shop_images/Banner_5_A_breathtaking_residential_space_at_the_exact_moment.png",
+        "description": "Vasee Artworks - Designed to Hold Presence",
+        "full_width": false,
+        "color_scheme": "scheme-3",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "collage": {
       "type": "collage",
       "blocks": {
@@ -150,22 +166,6 @@
         "mobile_layout": "collage",
         "card_styles": "product-card-wrapper",
         "color_scheme": "scheme-2",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "video": {
-      "type": "video",
-      "settings": {
-        "heading": "Designed to Hold Presence",
-        "heading_size": "h1",
-        "enable_video_looping": true,
-        "video": "shopify://files/videos/vasee brand story video 2.mp4",
-        "video_url": "",
-        "cover_image": "shopify://shop_images/Banner_5_A_breathtaking_residential_space_at_the_exact_moment.png",
-        "description": "Vasee Artworks - Designed to Hold Presence",
-        "full_width": false,
-        "color_scheme": "scheme-3",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -299,8 +299,8 @@
     "image_banner",
     "rich_text",
     "featured_collection",
-    "collage",
     "video",
+    "collage",
     "multicolumn",
     "collapsible_content_Xx7UCQ"
   ]
