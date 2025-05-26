@@ -157,12 +157,13 @@
     "video": {
       "type": "video",
       "settings": {
-        "heading": "",
+        "heading": "Designed to Hold Presence",
         "heading_size": "h1",
-        "enable_video_looping": false,
+        "enable_video_looping": true,
+        "video": "shopify://files/videos/vasee brand story video 2.mp4",
         "video_url": "",
         "cover_image": "shopify://shop_images/Banner_5_A_breathtaking_residential_space_at_the_exact_moment.png",
-        "description": "",
+        "description": "Vasee Artworks - Designed to Hold Presence",
         "full_width": false,
         "color_scheme": "scheme-3",
         "padding_top": 36,
