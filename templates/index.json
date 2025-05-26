@@ -238,9 +238,9 @@
         "collapsible_row_etYwXc": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "How can I track my order? ",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p>Once your order ships, you'll receive a confirmation email with tracking information. You can also track your order by logging into your account.</p>",
             "page": ""
           }
         },
