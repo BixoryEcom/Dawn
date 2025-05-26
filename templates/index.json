@@ -229,9 +229,9 @@
         "collapsible_row_pq8Ned": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "How long will it take to receive my order?",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p>Orders typically ship within 1-3 business days. Delivery times vary by location, usually 3-7 business days for domestic orders and 7-14 days for international orders.</p>",
             "page": ""
           }
         },
