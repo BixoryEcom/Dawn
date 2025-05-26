@@ -256,9 +256,9 @@
         "collapsible_row_dfQzeq": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Is my personal information secure?",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p>Yes, we use industry-standard encryption to protect your data. We never share your information with third parties without your consent.</p>",
             "page": ""
           }
         },
