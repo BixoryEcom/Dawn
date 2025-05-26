@@ -247,9 +247,9 @@
         "collapsible_row_JhFeGr": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "What is your return policy?",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p>We accept returns within 15 days of delivery. Items must be unused, in original packaging, and include all tags.</p><p><strong>How do I initiate a return or exchange?</strong></p><p>To start a return, contact our customer service team at [your email] or through the Returns page on our website.<br/><br/><strong>Who pays for return shipping?</strong></p><p>Customers are responsible for return shipping costs unless the item is defective or we made an error.<br/><br/><br/></p>",
             "page": ""
           }
         },
